@@ -181,7 +181,7 @@ const chapman = [
    ["Zetland", "SHI"],
    ["Anglesey", "AGY"],
    ["Breconshire", "BRE"],
-   ["Caernavonshire", "CAE"],
+   ["Caernarvonshire", "CAE"],
    ["Caernarfonshire", "CAE"],
    ["Cardiganshire", "CGN"],
    ["Carmarthenshire", "CMN"],
