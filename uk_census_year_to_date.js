@@ -9,4 +9,4 @@ const uk_census_year_to_date = {
    "1901": "31 MAR 1901",
    "1911": "2 APR 1911",
 
-};
+}
