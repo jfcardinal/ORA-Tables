@@ -1,0 +1,26 @@
+﻿{
+  "id": "it_regions",
+  "type": "bi-directional",
+  "data": [
+    [ "ABR", "Abruzzo" ],
+    [ "BAS", "Basilicata" ],
+    [ "CAL", "Calabria" ],
+    [ "CAM", "Campania" ],
+    [ "EMR", "Emilia-Romagna" ],
+    [ "FVG", "Friuli-Venezia Giulia" ],
+    [ "LAZ", "Lazio" ],
+    [ "LIG", "Liguria" ],
+    [ "LOM", "Lombardia" ],
+    [ "MAR", "Marche" ],
+    [ "MOL", "Molise" ],
+    [ "PIE", "Piemonte" ],
+    [ "PUG", "Apulia" ],
+    [ "SAR", "Sardegna" ],
+    [ "SIC", "Sicilia" ],
+    [ "TOS", "Toscana" ],
+    [ "TTA", "Trentino-Alto Adige" ],
+    [ "UMB", "Umbria" ],
+    [ "VDA", "Valle d'Aosta" ],
+    [ "VEN", "Veneto" ]
+  ]
+}

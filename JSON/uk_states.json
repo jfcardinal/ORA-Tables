@@ -1,0 +1,10 @@
+﻿{
+  "id": "uk_states",
+  "type": "bi-directional",
+  "data": [
+    [ "ENG", "England", "Eng" ],
+    [ "NIR", "Northern Ireland", "N Ireland" ],
+    [ "SCT", "Scotland", "Scot" ],
+    [ "WLS", "Wales" ]
+  ]
+}

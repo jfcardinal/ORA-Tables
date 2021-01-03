@@ -1,0 +1,19 @@
+{
+  "id": "ca_provinces",
+  "type": "bi-directional",
+  "data": [
+    [ "AB", "Alberta" ],
+    [ "BC", "British Columbia" ],
+    [ "MB", "Manitoba" ],
+    [ "NB", "New Brunswick" ],
+    [ "NF", "Newfoundland", "Nfld" ],
+    [ "NT", "Northwest Territory" ],
+    [ "NS", "Nova Scotia" ],
+    [ "NU", "Nunavut" ],
+    [ "ON", "Ontario" ],
+    [ "PE", "Prince Edward Island", "PEI" ],
+    [ "QC", "Quebec", "Québec", "QUE" ],
+    [ "SK", "Saskatchewan", "Sask" ],
+    [ "YT", "Yukon" ]
+  ]
+}
