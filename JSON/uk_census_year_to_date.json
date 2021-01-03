@@ -1,6 +1,7 @@
 ﻿{
   "id": "uk_census_year_to_date",
   "type": "associative",
+  "isDate": true,
   "data": {
     "1841": "6 JUN 1841",
     "1851": "30 MAR 1851",

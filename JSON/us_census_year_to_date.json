@@ -1,6 +1,7 @@
 ﻿{
   "id": "us_census_year_to_date",
   "type": "associative",
+  "isDate": true,
   "data": {
     "1790": "2 AUG 1790",
     "1800": "4 AUG 1800",
