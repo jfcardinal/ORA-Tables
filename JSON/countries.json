@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "countries",
   "type": "bi-directional",
   "data": [
@@ -42,7 +42,7 @@
     [ "CHE", "Switzerland" ],
     [ "CHL", "Chile" ],
     [ "CHN", "China", "People's Republic of China" ],
-    [ "CIV", "C�te d'Ivoire" ],
+    [ "CIV", "Côte d'Ivoire" ],
     [ "CMR", "Cameroon" ],
     [ "COD", "Democratic Republic of Congo" ],
     [ "COG", "Congo" ],
@@ -51,7 +51,7 @@
     [ "COM", "Comoros" ],
     [ "CPV", "Cape Verde" ],
     [ "CUB", "Cuba" ],
-    [ "CUW", "Cura�ao" ],
+    [ "CUW", "Curaçao" ],
     [ "CXR", "Christmas Island" ],
     [ "CYP", "Cyprus" ],
     [ "CZE", "Czech Republic", "Czechia" ],
@@ -138,7 +138,7 @@
     [ "MDA", "Moldova" ],
     [ "MDG", "Madagascar" ],
     [ "MDV", "Maldives" ],
-    [ "MEX", "Mexico" ],
+    [ "MEX", "Mexico", "México" ],
     [ "MHL", "Marshall Islands" ],
     [ "MKD", "North Macedonia", "Republic of North Macedonia" ],
     [ "MLI", "Mali" ],

@@ -1,5 +1,5 @@
 ﻿{
-  "id": "us_city_county",
+  "id": "us_cities_counties",
   "type": "custom",
   "description": "This table lists cities and towns with the county to which they belong. If a city or town belongs to multiple counties, the primary county is listed first. For independent cities, and neighborhoods within them, the county entry begins with '!' to indicate it is not an actual county.",
   "data": {

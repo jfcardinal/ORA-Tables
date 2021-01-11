@@ -1,4 +1,4 @@
-{
+﻿{
   "id": "ca_provinces",
   "type": "bi-directional",
   "data": [
@@ -12,7 +12,7 @@
     [ "NU", "Nunavut" ],
     [ "ON", "Ontario" ],
     [ "PE", "Prince Edward Island", "PEI" ],
-    [ "QC", "Quebec", "Qu�bec", "QUE" ],
+    [ "QC", "Quebec", "Québec", "QUE" ],
     [ "SK", "Saskatchewan", "Sask" ],
     [ "YT", "Yukon" ]
   ]
