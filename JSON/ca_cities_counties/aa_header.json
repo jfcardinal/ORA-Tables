@@ -1,0 +1,5 @@
+{
+  "id": "ca_cities_counties",
+  "type": "custom",
+  "description": "This table lists cities, towns, villages, etc., with the county, municipal district, etc., to which they belong, by province. If a place belongs to multiple such jurisdictions, or if a place with the same name exists in the same province, the primary larger jurisdiction is listed first. Only Nova Scotia (NS) has been assembled so far."
+}
