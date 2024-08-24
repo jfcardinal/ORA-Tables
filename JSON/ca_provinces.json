@@ -4,7 +4,10 @@
   "data": [
     [ "AB", "Alberta" ],
     [ "BC", "British Columbia" ],
+    [ "Canada East", "Canada East", "E Canada" ],
+    [ "Canada West", "Canada West", "W Canada" ],
     [ "MB", "Manitoba" ],
+    [ "Lower Canada", "Lower Canada", "L Canada" ],
     [ "NB", "New Brunswick" ],
     [ "NF", "Newfoundland", "Nfld" ],
     [ "NT", "Northwest Territory" ],
@@ -14,6 +17,7 @@
     [ "PE", "Prince Edward Island", "PEI" ],
     [ "QC", "Quebec", "Québec", "QUE" ],
     [ "SK", "Saskatchewan", "Sask" ],
+    [ "Upper Canada", "Upper Canada", "U Canada" ],
     [ "YT", "Yukon" ]
   ]
 }
