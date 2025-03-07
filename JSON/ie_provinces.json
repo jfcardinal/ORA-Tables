@@ -1,0 +1,10 @@
+{
+  "id": "ie_provinces",
+  "type": "bi-directional",
+  "data": [
+    [ "CO", "Connacht" ],
+    [ "LE", "Leinster" ],
+    [ "MU", "Munster" ],
+    [ "UL", "Ulster" ]
+  ]
+}
